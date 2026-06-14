@@ -28,7 +28,7 @@ html {
 }
 
 .li-navbar:hover {
-    background-color:blue;
+    background-color:rgb(0, 0, 0);
     transition: .5s ease-in-out;
     transition-delay: .2s;
     border-radius: 10px;
